@@ -31,7 +31,8 @@
         "w7corp/easywechat": "dev-master",
         "doctrine/dbal": "^2.5",
         "arvenil/ninja-mutex": "^0.6.0",
-        "bacon/bacon-qr-code": "1.0.*"
+        "bacon/bacon-qr-code": "1.0.*",
+        "mews/captcha": "*"
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
