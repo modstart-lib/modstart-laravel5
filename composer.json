@@ -23,7 +23,6 @@
         "league/commonmark-ext-table": "0.9.0",
         "mews/captcha": "dev-master",
         "guzzlehttp/guzzle": "~6.0",
-        // processed
         "maatwebsite/excel": "~2.1.10",
         "elasticsearch/elasticsearch": "~5.0",
         "w7corp/easywechat": "dev-master"
